@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9ECFA983256E3A8400699039 /* ScannerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ECFA982256E3A8400699039 /* ScannerVC.swift */; };
+		9ECFA986256E46DB00699039 /* ScannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ECFA985256E46DB00699039 /* ScannerView.swift */; };
 		9EF74D92256E0ED9000C329F /* BarcodeScannerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EF74D91256E0ED9000C329F /* BarcodeScannerApp.swift */; };
 		9EF74D94256E0ED9000C329F /* BarcodeSannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EF74D93256E0ED9000C329F /* BarcodeSannerView.swift */; };
 		9EF74D96256E0EDA000C329F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EF74D95256E0EDA000C329F /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		9ECFA982256E3A8400699039 /* ScannerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerVC.swift; sourceTree = "<group>"; };
+		9ECFA985256E46DB00699039 /* ScannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScannerView.swift; sourceTree = "<group>"; };
 		9EF74D8E256E0ED9000C329F /* BarcodeScanner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BarcodeScanner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EF74D91256E0ED9000C329F /* BarcodeScannerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarcodeScannerApp.swift; sourceTree = "<group>"; };
 		9EF74D93256E0ED9000C329F /* BarcodeSannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarcodeSannerView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				9EF74D91256E0ED9000C329F /* BarcodeScannerApp.swift */,
 				9EF74D93256E0ED9000C329F /* BarcodeSannerView.swift */,
 				9ECFA982256E3A8400699039 /* ScannerVC.swift */,
+				9ECFA985256E46DB00699039 /* ScannerView.swift */,
 				9EF74D95256E0EDA000C329F /* Assets.xcassets */,
 				9EF74D9A256E0EDA000C329F /* Info.plist */,
 				9EF74D97256E0EDA000C329F /* Preview Content */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9ECFA983256E3A8400699039 /* ScannerVC.swift in Sources */,
+				9ECFA986256E46DB00699039 /* ScannerView.swift in Sources */,
 				9EF74D94256E0ED9000C329F /* BarcodeSannerView.swift in Sources */,
 				9EF74D92256E0ED9000C329F /* BarcodeScannerApp.swift in Sources */,
 			);
