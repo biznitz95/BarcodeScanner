@@ -23,6 +23,7 @@ struct AlertContext {
                                               message: "The value scanned is invalid. This app scans EAN-8 and EAN-13 only.",
                                               dismissButton: .default(Text("Okay")))
 }
+
 struct BarcodeSannerView: View {
     // MARK: - States
     @State private var scannedCode = ""
